@@ -29,7 +29,7 @@
 
 [![](https://img.icons8.com/fluency/40/000000/gmail-new.png)](mailto:ashishjayswal698@gmail.com)
 [![](https://img.icons8.com/fluency/40/000000/instagram-new.png)](https://www.instagram.com/ashishhh_1x/)
-[![](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://https://www.linkedin.com/in/ashishjayswal01/)
+
 
 
 
