@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ashish Jayswal</h1>
-<h3 align="center"></h3>
+<a href="https://github.com/asjayswal01">
+    <img src="ASHISHJAYSWAL.svg" alt="Ashish jayswal">
+</a>
 <hr>
 <!-- Visitor Counter -->
 
